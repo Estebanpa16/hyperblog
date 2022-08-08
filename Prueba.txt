@@ -1,5 +1,4 @@
 Esta es una prueba para validar el commit con el cambio
 
-Cambio 1 de 2
 
-Como fue pues para validar este cambio
+Este es un ajuste a las versiónes por un error encontrado
