@@ -10,5 +10,7 @@ un blog de pruebas para el curso de Git y Github de Platzi
 * Trucos del Instructor
 * Las personalidades múltiples del Instructor
 * Creado por mi persona
+* incluye ejemplos
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es una prueba**. Diseñado para el ejemplo. Si llegas acá NO LO TOMES EN SERIO y mejor ve el curso de Platzi
